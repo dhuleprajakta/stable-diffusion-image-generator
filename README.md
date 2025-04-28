@@ -42,4 +42,4 @@ This project allows you to generate images from textual descriptions using the S
 
 
 
-![Alt Text](path/to/image)
+![Alt Text]([path/to/image](https://github.com/dhuleprajakta/stable-diffusion-image-generator/blob/main/Text_to_image.png))
