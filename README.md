@@ -30,9 +30,9 @@ This project allows you to generate images from textual descriptions using the S
    python generate_image.py
 ## Example
 
-```bash
-Enter the description for the image: baby in the garden
-
+2.
+   ```bash
+   Enter the description for the image: baby in the garden
 
 ## Acknowledgments
 
